@@ -29,3 +29,8 @@ subprojects {
 tasks.register("clean", Delete) {
     delete rootProject.buildDir
 }
+
+///Agregado
+plugins {
+  id 'com.google.gms.google-services' version '4.4.1' apply false
+}

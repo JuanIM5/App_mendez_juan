@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190106390219",
+    "project_id": "prueba-d08f8",
+    "storage_bucket": "prueba-d08f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190106390219:android:0d6f05a4d7122f0409154e",
+        "android_client_info": {
+          "package_name": "com.example.mendez_juan_aplicacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTO6BqUA8GnTjH83sGh81Xdo-yPARfKAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
